@@ -297,7 +297,8 @@ body {
 	display: inline-block;
 	font-size: 0px;
 	/* margin: 150px auto 0; */
-  margin: -41px auto 120px;
+  /* margin: -41px auto 120px; */
+  margin: 25px auto 101px;
 	padding: 20px;
 	position: relative;
 	z-index: 1;
@@ -638,6 +639,12 @@ a.card:focus, a.card:active {
   .navi_nav {
 
     width: 87%;
+  }
+
+  .webdesigntuts-workshop form {
+
+    margin: -41px auto 120px;
+ 
   }
 }
 
